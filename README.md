@@ -28,3 +28,6 @@ wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-01.par
 You will also need the dataset with zones:
 
 wget https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv
+
+
+![de](https://github.com/Mohamed-fawzyy/data-engineering-zoomcamp/assets/111665714/deebf426-44e7-4478-b5ca-bc3b6bb4e7c8)
